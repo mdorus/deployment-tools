@@ -51,6 +51,9 @@
 			<param name="target.dir" value="src" />
 		</antcall>
 		<antcall target="scrub-views-src"/>
+		<antcall target="scrub-social-src"/>
+        <antcall target="scrub-manage-sandboxes-src"/>
+        <antcall target="scrub-billing-info-src"/>
 		<antcall target="restore-src-package"/>
 	</target>
 
@@ -62,6 +65,9 @@
 			<param name="target.dir" value="src" />
 		</antcall>
 		<antcall target="scrub-views-src"/>
+		<antcall target="scrub-social-src"/>
+        <antcall target="scrub-manage-sandboxes-src"/>
+        <antcall target="scrub-billing-info-src"/>
 		<antcall target="restore-src-package"/>
 	</target>
 
@@ -71,6 +77,9 @@
 			<param name="target.dir" value="src" />
 		</antcall>
 		<antcall target="scrub-views-src"/>
+		<antcall target="scrub-social-src"/>
+        <antcall target="scrub-manage-sandboxes-src"/>
+        <antcall target="scrub-billing-info-src"/>
 		<antcall target="restore-src-package"/>
 	</target>
 
