@@ -1,4 +1,0 @@
-CustomSetting1__c cs = new CustomSetting1__c();
-cs.Name = 'df12';
-cs.Field1__c = 'cs vlaue';
-insert cs;
