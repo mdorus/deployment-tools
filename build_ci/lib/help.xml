@@ -1,7 +1,4 @@
 <?xml version="1.0"?>
-<!--
- * 2016, Dylan Gerow, West Monroe Partners, dgerow@westmonroepartners.com
--->
 <project name="help">
 
     <target name="help">

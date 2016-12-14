@@ -1,7 +1,4 @@
 <?xml version="1.0"?>
-<!--
- * 2016, Dylan Gerow, West Monroe Partners, dgerow@westmonroepartners.com
--->
 <project name="directory_utility">
 
     <!-- ensures that there is a package.xml in the directory -->
